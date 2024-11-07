@@ -11,9 +11,9 @@ To use this db.json o just need to access https://my-json-server.typicode.com/rs
 
 ## DO IT YOURSELF
 
-> Step 1 - Create a repo on github with a file db.json on main branch.
-> </p>
-> Step 2 - Visit https://my-json-server.typicode.com/<your-username>/<your-repo> to access your server.
-> </p>
-> Step 3 - Have fun.
+Step 1 - Create a repo on github with a file db.json on main branch.
+</p>
+Step 2 - Visit https://my-json-server.typicode.com/<your-username>/<your-repo> to access your server.
+</p>
+Step 3 - Have fun.
 </p>
